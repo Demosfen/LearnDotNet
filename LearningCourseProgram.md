@@ -36,6 +36,8 @@ This course is based on reading the book **Price M.J. - CSharp 10 and .NET 6** c
     - [Metanit](https://metanit.com/sharp/efcore/)
     - [MSDN](https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app?tabs=netcore-cli)
     - [EF Core & Nullable Reference Types](https://learn.microsoft.com/en-us/ef/core/miscellaneous/nullable-reference-types)
+    - [Conventions for relationship discovery](https://learn.microsoft.com/en-us/ef/core/modeling/relationships/conventions)
+    - [e.g. One-to-Many relationships](https://learn.microsoft.com/en-us/ef/core/modeling/relationships/one-to-many)
     - [EF Core sample](https://github.com/alex1ozr/LearnDotNet/tree/main/CodeSamples/EF)
 12. LINQ
     - Chapter 11
